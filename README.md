@@ -31,11 +31,11 @@ Overall, this project aims to demonstrate the capability of GANs to generate con
 
 1. Clone the repository:
 
-   ```git clone https://github.com/tajammulbasheer/gan-for-MNIST.git```
+   ```git clone https://github.com/tajammulbasheer/GAN-for-MNIST.git```
    
 2. Navigate to the project directory:
 
-   ```cd gan-foor-MNIST```
+   ```cd GAN-for-MNIST```
    
 3. Create a new virtual environment:
    
@@ -68,11 +68,11 @@ This project was created  for understanding and learning PyTorch for GAN for MNI
 
 1. Clone the repository:
    
-   ```git clone https://github.com/tajammulbasheer/gan-for-MNIST.git```
+   ```git clone https://github.com/tajammulbasheer/GAN-for-MNIST.git```
    
 2. Navigate to the project directory:
 
-   ```cd gan-for-MNIST```
+   ```cd GAN-for-MNIST```
    
 3. Install the required libraries:
 
